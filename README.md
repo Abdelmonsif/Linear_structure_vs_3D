@@ -23,3 +23,7 @@ python figure_creation.py
 ## FlowChart of the manuscript:
 
 ![Linear structure](1D.jpeg)
+
+
+
+![Three-dimensional structure](3D.jpeg)
