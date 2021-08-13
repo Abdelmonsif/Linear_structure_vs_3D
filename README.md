@@ -22,14 +22,16 @@ python figure_creation.py
 
 ## FlowChart of the manuscript:
 
+## Unidimensional structure analysis:
+
 ![Linear structure](1D.jpeg)
 
 
+## Three-dimensional structure analysis:
 
 ![Three-dimensional structure](3D.jpeg)
 
 
-
-
+## Topologically Associating Domains (TADs) analysis:
 
 ![Topologically Associating Domains analysis](TADs.png)
