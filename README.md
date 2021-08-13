@@ -27,3 +27,9 @@ python figure_creation.py
 
 
 ![Three-dimensional structure](3D.jpeg)
+
+
+
+
+
+![Topologically Associating Domains analysis](TADs.png)
