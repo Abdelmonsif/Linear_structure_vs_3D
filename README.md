@@ -22,4 +22,4 @@ python figure_creation.py
 
 ## FlowChart of the manuscript:
 
-![Linear structure](Figure22.tiff)
+![Linear structure](Figure 22.tiff)
