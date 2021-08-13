@@ -14,3 +14,12 @@ This readme file and the script was created by Abd-El-Monsif Shawky.
 Usage:
 
 python figure_creation.py 
+
+
+
+
+
+
+FlowChart of the manuscript:
+
+https://github.com/Abdelmonsif/Figure_creation_nearest/blob/main/Figure%2022.tiff
