@@ -1,4 +1,4 @@
-Script used for creation of figures in our article to compare SNPs in linear structure against SNPs in three-dimenion structure:
+## Script used for creation of figures in our article to compare SNPs in linear structure against SNPs in three-dimenion structure:
 
 
 
